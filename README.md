@@ -1,4 +1,4 @@
-## Machine Learn Classification Random Forest
+## Deep Learning Classification Iris
 
 ### Install python (você vai precisar instalar estes pacotes)
 
