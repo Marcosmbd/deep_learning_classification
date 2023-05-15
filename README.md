@@ -7,7 +7,6 @@ numpy <br>
 pycaret <br>
 sklearn <br>
 seaborn <br>
-dataprep <br>
 matplotlib <br>
 keras <br>
 
