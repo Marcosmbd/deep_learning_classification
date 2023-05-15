@@ -1,4 +1,4 @@
-## Deep Learning Classification Iris
+## Deep Learning Classification
 
 ### Install python (você vai precisar instalar estes pacotes)
 
